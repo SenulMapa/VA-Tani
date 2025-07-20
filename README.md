@@ -1,36 +1,15 @@
 # 🧠V/A TANI V1
 
-This  project is a passion project of mine as someone who wanted to work with Ai for a long time but never had the meansof, 
-> You may need extra setup for microphone and TTS engines based on your OS. (built with windows 11 and my private access key with picovoice procupine)
+## About V1
+V1 is a very basic version of the voice assistant. The wake word system is built with ethe help of Porcupine. Its one single python file so there is room for improvment. The code isnt the most efficent nor is performance wise optimised. Its very bare bones and basic.
 
----
+The actions are hardcoded and for certain apps it requires them to be installed to the c drive as is on most computers. The harcoded aspect also means this is a command driven software. The Ai chat intergration uses Groq API and the proccessing is done on groq servers not run locally (as it would be resource intensvie.
 
-## 🧵 Version Threads
+## Features 📝
+- Control users pc (limited commands)
+- Access to an LLM (Glorified way of talking to a simpler chat bot)
 
-| Version | Description 
-|---------|-------------                             |
-|V1       |Simple base version heavily API Dependent |
-|V2       |A more local model which has more offline features |
----
-
-## 📅 Roadmap
-
-- [x] Wake word activation
-- [x] Groq model integration
-- [ ] Visualizer feedback
-- [ ] Local memory & personality storage
-- [ ] GUI or mobile integration
-- [ ] Plugin support for third-party tools
-
----
-
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
-
----
+## Notice ⚠ 
+ The script is very minimal and you would have to make some changes to use it. For example you have to use your own API keys and for that you need to make accounts at Groq and Picovoice ( the wake word file would be included tho). This version of the software is just a demo that you can try out. A more just run the script variant is still in development. 
 
 
