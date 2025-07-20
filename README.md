@@ -7,9 +7,10 @@ This  project is a passion project of mine as someone who wanted to work with Ai
 
 ## 🧵 Version Threads
 
-| Version | Description | Link |
-|---------|-------------|------|
-
+| Version | Description 
+|---------|-------------                             |
+|V1       |Simple base version heavily API Dependent |
+|V2       |A more local model which has more offline features |
 ---
 
 ## 📅 Roadmap
@@ -32,7 +33,4 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ---
 
-## ✨ Credits
 
-Created by **Senul Mapa**  
-Powered in part by **OpenAI**, **Groq**, and the open-source community
