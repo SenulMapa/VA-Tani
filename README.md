@@ -23,7 +23,7 @@ This  project is a passion project of mine as someone who wanted to work with Ai
 - [ ] Plugin support for third-party tools
 
 ---
-
+[V1](https://github.com/SenulMapa/VA-Tani/tree/V1)
 
 ---
 
