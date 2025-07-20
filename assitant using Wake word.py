@@ -27,7 +27,7 @@ def talkBack(text): #handles the talking back (txt to speach)
     txtSpeechEngine.say(text)
     txtSpeechEngine.runAndWait()
 
-client = Groq(api_key="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") #put your groq api key here 
+client = Groq(api_key="") #put your groq api key here 
 def UsingLLM(prompt): #Using LLAMA for answers
     try:
         # Create a chat completion request
@@ -276,7 +276,7 @@ def main():
     audio_stream = None
     try:
         porcupine = pvporcupine.create(
-            access_key="BC/lCgYTs5GTpVEE0zxe8JTOtZozAQjCYJTqtmXNgi5COqUgr7deow==",#Use your own access key 
+            access_key="",#Use your own access key 
             keyword_paths=[r"C:\Users\user\Downloads\Hey-Tani_en_windows_v3_0_0\Hey-Tani_en_windows_v3_0_0.ppn"]
         )
         
