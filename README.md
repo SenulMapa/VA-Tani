@@ -1,4 +1,4 @@
-# 🧠V/A TANI 
+# 🧠V/A TANI V1
 
 This  project is a passion project of mine as someone who wanted to work with Ai for a long time but never had the meansof, 
 > You may need extra setup for microphone and TTS engines based on your OS. (built with windows 11 and my private access key with picovoice procupine)
